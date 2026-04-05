@@ -1,6 +1,6 @@
 # CFD-Nozzle-Study
 CFD comparison of Nozzle geometries for Aerospace applications
-
+(Some of the files were corrupt and wasn't able to open them, working on a way to fix it)
 
 This repository contains the CFD study of different nozzle geometries demonstrated on my bachelor Thesis.
 
