@@ -46,7 +46,7 @@ This project covers both for converging–diverging (De Laval) nozzles, with dis
 - **Cooling techniques** — film cooling, regenerative cooling, transpiration cooling, radiative cooling (Stefan–Boltzmann limit).
 - **Design considerations** — material/cooling selection across booster, upper-stage, and RCS applications.
 
-📄 [Read the thesis (PDF, in Italian)](./Thesis/Ugelli di scarico.pdf)
+📄 [Read the thesis (PDF, in Italian)](./Thesis/Ugelli_di_scarico.pdf)
 
 > **Note on authorship:** The thesis was a team project of three students. My contribution focused on [TODO: fill in the specific sections you worked on, e.g., compressible flow fundamentals + aerospike chapter + cooling techniques].
 
