@@ -105,16 +105,6 @@ The flow accelerates smoothly through the throat (sonic, $M=1$) and reaches appr
 
 ### Validation against analytical isentropic theory
 
-*[TODO — add this table once computed from the closed-form isentropic relations.]*
-
-| Quantity | Analytical (isentropic) | CFD | Relative error |
-|----------|------------------------:|----:|---------------:|
-| $M_{\text{throat}}$ | 1.000 | … | … |
-| $M_{\text{exit}}$ | … | ≈ 3.8 | … |
-| $T_{\text{exit}}\,[\mathrm{K}]$ | … | ≈ 2000 | … |
-| $p_{\text{exit}}\,[\mathrm{Pa}]$ | … | ≈ $1.01 \times 10^5$ | … |
-| $u_{\text{exit}}\,[\mathrm{m/s}]$ | … | ≈ 3300 | … |
-
 The CFD reproduces the expected quasi-1D isentropic behaviour: choking at the throat, monotonic supersonic expansion, no shock formation under the imposed pressure ratio.
 
 📄 [Read the full CFD report (PDF)](./CFD_Nozzle_Study/Nozzle_analysis.pdf)
@@ -148,9 +138,9 @@ Planned thermal–structural analysis of the nozzle wall in ANSYS Mechanical:
 ```
 .
 ├── README.md
-├── thesis/
+├── Thesis/
 │   └── Ugelli_di_scarico.pdf       # Bachelor thesis (Italian)
-├── cfd/
+├── CFD_Nozzle_Study/
 │   ├── Nozzle_analysis.pdf         # Current CFD writeup
 │   ├── nozzle_2d.wbpj              # ANSYS Workbench project
 │   ├── nozzle_results.wbpj         # ANSYS Workbench results
@@ -177,8 +167,6 @@ Planned thermal–structural analysis of the nozzle wall in ANSYS Mechanical:
 **Rodrigo Conti Gallenti**
 MSc Aerospace Engineering, UiT — The Arctic University of Norway
 BSc Aerospace Engineering, Politecnico di Milano
-
-[GitHub](https://github.com/rodrig0conti) · [LinkedIn](https://www.linkedin.com/in/your-handle-here) · rcgallenti@gmail.com
 
 ---
 
