@@ -117,7 +117,7 @@ The flow accelerates smoothly through the throat (sonic, $M=1$) and reaches appr
 
 The CFD reproduces the expected quasi-1D isentropic behaviour: choking at the throat, monotonic supersonic expansion, no shock formation under the imposed pressure ratio.
 
-📄 [Read the full CFD report (PDF)](./Nozzle_analysis.pdf)
+📄 [Read the full CFD report (PDF)](.CFD_Nozzle_Study/Nozzle_analysis.pdf)
 
 ---
 
