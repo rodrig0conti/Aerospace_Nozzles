@@ -48,9 +48,8 @@ This project covers both for converging–diverging (De Laval) nozzles, with dis
 
 📄 [Read the thesis (PDF, in Italian)](./Thesis/Ugelli%20di%20scarico.pdf)
 
-> **Note on authorship:** The thesis was a team project of three students. My contribution focused on [TODO: fill in the specific sections you worked on, e.g., compressible flow fundamentals + aerospike chapter + cooling techniques].
 
----
+--
 
 ## Part 2 — CFD Analysis (Independent Extension)
 
@@ -73,7 +72,7 @@ Bell-shaped axisymmetric nozzle defined in ANSYS Discovery via spline profile:
 The 2D meridional curve was generated from a 3-point converging spline and a 4-point bell-shaped diverging spline, then revolved around the axis of symmetry.
 
 <p align="center">
-  <img src="images/geometry.png" alt="Nozzle geometry" width="55%">
+  <img src="images/mesh.png" alt="Nozzle geometry" width="55%">
 </p>
 
 ### Mesh & Solver
