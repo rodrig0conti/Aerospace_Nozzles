@@ -94,11 +94,11 @@ The 2D meridional curve was generated from a 3-point converging spline and a 4-p
 The flow accelerates smoothly through the throat (sonic, $M=1$) and reaches approximately $M \approx 3.8$ at the exit, with no shock formation, indicating near-adapted operation.
 
 <p align="center">
-  <img src="images/mach_contour.png" width="48%">
-  <img src="images/velocity_contour.png" width="48%">
+  <img src="images/mach.png" width="48%">
+  <img src="images/velocity.png" width="48%">
   <br>
-  <img src="images/pressure_contour.png" width="48%">
-  <img src="images/temperature_contour.png" width="48%">
+  <img src="images/pressure.png" width="48%">
+  <img src="images/temperature.png" width="48%">
   <br>
   <em>Left to right, top to bottom: Mach number, velocity magnitude, static pressure, static temperature.</em>
 </p>
