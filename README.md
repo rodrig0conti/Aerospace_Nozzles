@@ -3,7 +3,7 @@
 > Compressible flow analysis of jet engine and rocket nozzles — from theoretical study to numerical validation of a De Laval nozzle in ANSYS Fluent.
 
 <p align="center">
-  <img src="images/mach_contour.png" alt="Mach number contour" width="70%">
+  <img src="images/mach.png" alt="Mach number contour" width="70%">
   <br>
   <em>Mach number distribution showing subsonic → sonic → supersonic transition in a De Laval nozzle (CFD result, ANSYS Fluent).</em>
 </p>
